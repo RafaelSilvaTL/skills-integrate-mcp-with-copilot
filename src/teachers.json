@@ -1,0 +1,12 @@
+{
+  "teachers": {
+    "admin@mergington.edu": {
+      "password": "admin123",
+      "name": "Admin User"
+    },
+    "teacher@mergington.edu": {
+      "password": "teacher123",
+      "name": "Teacher User"
+    }
+  }
+}
